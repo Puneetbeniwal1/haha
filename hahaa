@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Warning!</title>
+    <style>
+        body {
+            background-color: black;
+            color: red;
+            font-family: Arial, sans-serif;
+            text-align: center;
+        }
+        .warning {
+            margin-top: 100px;
+        }
+        .warning-sign {
+            font-size: 48px;
+            margin-bottom: 20px;
+        }
+        video {
+            width: 80%;
+            margin: 20px auto;
+            display: block;
+        }
+    </style>
+</head>
+<body>
+    <div class="warning">
+        <div class="warning-sign">&#9888;</div>
+        <h1>Warning!</h1>
+        <p>10726 users found this disturbing out of 109237 users</p>
+    </div>
+    <iframe src="https://drive.google.com/file/d/1OnJxZFNekUJmuEnXzadTHTDsc6AOOL15/preview" width="640" height="480" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+</body>
+</html>
